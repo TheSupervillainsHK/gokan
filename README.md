@@ -1,1 +1,1 @@
-# gokan
+# gokan-menu
